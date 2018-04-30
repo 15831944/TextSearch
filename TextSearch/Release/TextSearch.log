@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ini.c
+  INIReader.cpp
+  TextSearch.cpp
+  Generating code
+  All 612 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TextSearch.vcxproj -> C:\Users\Jouni\source\repos\TextSearch\Release\TextSearch.exe
